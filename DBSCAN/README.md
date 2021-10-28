@@ -1,4 +1,4 @@
-# Decision Tree
+# DBSCAN
 ## 1.	실행환경
 ##### A.	OS : Windows10
 ##### B.	Languages : Python 3.8
